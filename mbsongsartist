@@ -7,7 +7,7 @@
     "categorie": "Animation | Drama | Adventure",
     "studio": "Studio Pierrot",
     "img": "https://raw.githubusercontent.com/mungboihzomi/mungboihzomi/refs/heads/main/Picsart_24-11-08_19-04-15-263.jpg",
-    "videourl": "https://github.com/mungboihzomi/mungboihzomi/blob/379c7b94a6b820dafb69271a543e16b1b6e510bb/odsongmb.mp3"
+    "videourl": "http://icecast.omroep.nl:80/radio1-sb-mp3"
   },
   {
     "name": "One Piece",
@@ -17,7 +17,7 @@
     "categorie": "Animation | Drama | Adventure",
     "studio": "Toei Animation",
     "img": "https://raw.githubusercontent.com/mungboihzomi/mungboihzomi/refs/heads/main/Picsart_24-11-08_19-04-15-263.jpg",
-    "videourl": "https://github.com/mungboihzomi/mungboihzomi/blob/379c7b94a6b820dafb69271a543e16b1b6e510bb/odsongmb.mp3"
+    "videourl": "http://icecast.omroep.nl:80/radio1-sb-mp3"
   },
   {
     "name": "Attack on Titan",
@@ -27,7 +27,7 @@
     "categorie": "Animation | Drama | Adventure",
     "studio": "Wit Studio",
     "img": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
-    "videourl": "https://github.com/mungboihzomi/mungboihzomi/blob/379c7b94a6b820dafb69271a543e16b1b6e510bb/odsongmb.mp3"
+    "videourl": "http://icecast.omroep.nl:80/radio1-sb-mp3"
   },
   {
     "name": "Monster",
@@ -37,7 +37,7 @@
     "categorie": "Animation | Drama | Adventure",
     "studio": "Madhouse",
     "img": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
-    "videourl": "https://github.com/mungboihzomi/mungboihzomi/blob/379c7b94a6b820dafb69271a543e16b1b6e510bb/odsongmb.mp3"
+    "videourl": "http://icecast.omroep.nl:80/radio1-sb-mp3"
   },
   {
     "name": "Death Note",
@@ -47,7 +47,7 @@
     "categorie": "Animation | Adventure",
     "studio": "Madhouse",
     "img": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
-    "videourl": "https://github.com/mungboihzomi/mungboihzomi/blob/379c7b94a6b820dafb69271a543e16b1b6e510bb/odsongmb.mp3"
+    "videourl": "http://icecast.omroep.nl:80/radio1-sb-mp3"
   },
   {
     "name": "Violet Evergarden",
@@ -57,7 +57,7 @@
     "categorie": "Fantasy | Drama ",
     "studio": "Kyoto Animation",
     "img": "https://raw.githubusercontent.com/mungboihzomi/mungboihzomi/refs/heads/main/Picsart_24-11-08_19-04-15-263.jpg",
-    "videourl": "https://github.com/mungboihzomi/mungboihzomi/blob/379c7b94a6b820dafb69271a543e16b1b6e510bb/odsongmb.mp3"
+    "videourl": "http://icecast.omroep.nl:80/radio1-sb-mp3"
   },
   {
     "name": "Tokyo Ghoul",
@@ -67,7 +67,7 @@
     "categorie": "Action | Mystery",
     "studio": "Studio Pierrot",
     "img": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
-    "videourl": "https://github.com/mungboihzomi/mungboihzomi/blob/379c7b94a6b820dafb69271a543e16b1b6e510bb/odsongmb.mp3"
+    "videourl": "http://icecast.omroep.nl:80/radio1-sb-mp3"
   },
   {
     "name": "Black Clover",
@@ -77,7 +77,7 @@
     "categorie": "Magic | Shounen | Adventure",
     "studio": "Studio Pierrot",
     "img": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
-    "videourl": "https://github.com/mungboihzomi/mungboihzomi/blob/379c7b94a6b820dafb69271a543e16b1b6e510bb/odsongmb.mp3"
+    "videourl": "http://icecast.omroep.nl:80/radio1-sb-mp3"
   },
   {
     "name": "Sword Art Online",
@@ -87,7 +87,7 @@
     "categorie": "Drama | Adventure",
     "studio": "A-1 Pictures",
     "img": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
-    "videourl": "https://github.com/mungboihzomi/mungboihzomi/blob/379c7b94a6b820dafb69271a543e16b1b6e510bb/odsongmb.mp3"
+    "videourl": "http://icecast.omroep.nl:80/radio1-sb-mp3"
   },
   {
     "name": "Nanatsu no Taizai",
