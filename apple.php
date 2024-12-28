@@ -15,7 +15,7 @@
   },
   {
     "description": "JUL-920-SUB [English Subtitle] I Was Raised By My Beloved Stepsister, And She Was Stolen Away By My Worst Friend...Nao Jinguji\nJUL00920 僕を女手一つで育ててくれた、最愛の義姉が最低な友人に寝取られて… 神宮寺ナオ",
-    "sources": "https://cdn3.turboviplay.cc/data2/afyjehcRAaCmNFpRIXGQ/afyjehcRAaCmNFpRIXGQ.m3u8",
+    "sources": "https://streamtape.net/get_video?id=ZxjP0O8bO3Uq9lW&expires=1735470104&ip=F0IOKRWUEy9XKxR&token=TjVfHON-5BZG&stream=1",
     "subtitle": "JUL-920",
     "thumb": "https://cdn001.imggle.net/webp/poster/20220707/1657172975.webp",
     "title": "Nao Jinguji"
@@ -28,11 +28,11 @@
     "title": "Amami Tsubasa"
   },
   {
-    "description": "Introducing Chromecast. The easiest way to enjoy online video and music on your TV. For $35. Find out more at google.com/chromecast.",
-    "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
-    "subtitle": "By Google",
-    "thumb": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerFun.jpg",
-    "title": "Bigger"
+    "description": "LULU-339 \"It's painful if you don't ejaculate, right...?\" I asked my neighbor, a kind-hearted big-breasted nurse, to help me with my sexual needs, pretending that I couldn't jerk off because I had a broken bone, and she helped me masturbate by giving me a handjob and letting me ejaculate 13 times, all over her breasts. Kurumi Sakura - Koto Sakura",
+    "sources": "https://surrit.com/56a10a5d-5f05-4c2b-a758-273c9a0fc912/720p/video.m3u8",
+    "subtitle": "LULU-339",
+    "thumb": "https://missav.com/dm1/en/lulu-339",
+    "title": "Kurumi Sakura"
   },
   {
     "description": "Introducing Chromecast. The easiest way to enjoy online video and music on your TV—for the times that call for bigger joyrides. For $35. Learn how to use Chromecast with YouTube and more at google.com/chromecast.",
