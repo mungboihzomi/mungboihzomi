@@ -15,7 +15,7 @@
   },
   {
     "description": "JUL-920-SUB [English Subtitle] I Was Raised By My Beloved Stepsister, And She Was Stolen Away By My Worst Friend...Nao Jinguji\nJUL00920 僕を女手一つで育ててくれた、最愛の義姉が最低な友人に寝取られて… 神宮寺ナオ",
-    "sources": "https://streamtape.net/get_video?id=ZxjP0O8bO3Uq9lW&expires=1735470104&ip=F0IOKRWUEy9XKxR&token=TjVfHON-5BZG&stream=1",
+    "sources": "https://cdn3.turboviplay.cc/data2/afyjehcRAaCmNFpRIXGQ/afyjehcRAaCmNFpRIXGQ.m3u8",
     "subtitle": "JUL-920",
     "thumb": "https://cdn001.imggle.net/webp/poster/20220707/1657172975.webp",
     "title": "Nao Jinguji"
